@@ -30,7 +30,7 @@ The goal of this project is to build a neural network that can estimate 3D poses
 |  |--visualize.py # Script for visualizing 3D keypoints \
 |--main.py # Main script to run the full pipeline \
 |--requirements.txt # List of dependencies\
-|--README.md # Project documentation\
+|--README.md # Project documentation
 
 ## Installation
 To set up the project, clone the repository and install the required dependencies:
