@@ -22,15 +22,15 @@ The goal of this project is to build a neural network that can estimate 3D poses
 |  |--raw/ # Raw video files              \
 |  |--processed/ # Processed keypoints data  \
 |--models/ # Trained models saved here \
-|--outputs/ # Inference results and visualizations /
-|--scripts/ # Python scripts for each task /
-|  |--data_preparation.py # Script for data preparation /
-|  |--train_model.py # Script for training the model
-|  |--inference.py # Script for running inference
-|  |--visualize.py # Script for visualizing 3D keypoints
-|--main.py # Main script to run the full pipeline
-|--requirements.txt # List of dependencies
-|--README.md # Project documentation
+|--outputs/ # Inference results and visualizations \
+|--scripts/ # Python scripts for each task \
+|  |--data_preparation.py # Script for data preparation \
+|  |--train_model.py # Script for training the model \
+|  |--inference.py # Script for running inference \
+|  |--visualize.py # Script for visualizing 3D keypoints \
+|--main.py # Main script to run the full pipeline \
+|--requirements.txt # List of dependencies\
+|--README.md # Project documentation\
 
 ## Installation
 To set up the project, clone the repository and install the required dependencies:
