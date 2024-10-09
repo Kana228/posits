@@ -13,6 +13,10 @@ Hyperparameter Optimization
 Video Processing
 Evaluation
 Acknowledgements
+
+https://github.com/user-attachments/assets/12344956-e9bb-4713-8759-e73f53b19f77
+
+
 Project Overview
 
 ##The goal of this project is to estimate 3D human poses from 2D video data. The pipeline includes:
