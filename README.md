@@ -3,9 +3,12 @@
 This repository contains code for 3D pose estimation from video data using a combination of Convolutional Neural Networks (CNNs) and Recurrent Neural Networks (RNNs). The project leverages MediaPipe for 2D keypoint extraction, TensorFlow/Keras for model building, and Hyperopt for hyperparameter optimization.
 
 ##Output of predicted 3d keypoints 
-Uploading output_3d_keypoints.mp4…
+
+https://github.com/user-attachments/assets/dfebd7cc-f90c-428c-9e99-751e1f6c91a7
 
 
+
+##Output of predicted movements
 https://github.com/user-attachments/assets/12344956-e9bb-4713-8759-e73f53b19f77
 
 
